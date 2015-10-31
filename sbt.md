@@ -2,13 +2,19 @@
 
 http://www.scala-sbt.org/
 
+Simple Build Tool
+
 The interactive build tool.
+
+**sbt is not just a build tool but actually a powerful REPL programming environment**
 
 Use Scala to define your tasks. Then run them in parallel from the shell.
 
 Powerful, interactive build platform for Reactive applications
 
 sbt uses a small number of concepts to support flexible and powerful build definitions.
+
+
 
 ## build
 
